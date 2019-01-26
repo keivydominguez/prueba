@@ -1,0 +1,103 @@
+body
+{
+  background-color: #9c8d7a;
+}
+
+#header {
+  margin: auto;
+  width: auto;
+  font-family: arial;
+}
+
+ul,li { /*son para las listas*/
+  list-style: none; /*para quitar los puntos*/
+}
+
+.nav li a { /*todos los elementos que esten en nav y poner sus propiedades*/
+  background-color:#904545;
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 60px;
+  display: block;
+}
+
+.nav > li {/*los que estan directo con li tengan estas propiedades*/
+  float: left;
+}
+
+.bienvenido
+{
+  color: purple; /*pone de color de fondo */
+  text-align: center; /*pone en el centro el texto */
+  font-size: 40px; /*grosor de la letra */
+}
+
+#subtitulo
+{
+  text-align: center;
+  font-family: 'ariel'; /* tipo de texto*/
+  font-size: 15px; /* cuerpo de letra */
+  color: #000; /* color del texto*/
+  line-height: 20px; /* texto interlineado */
+  margin-bottom: 18px; /* se paracion entre parrafo*/
+}
+
+#mensaje
+{
+  background-color: #fff;
+  font-size: 30px;
+  font-family: 'Noto Sans CJK TC Bold';
+}
+
+#imagenes {
+  width: 300px;
+  margin: 30px;
+  margin-left: 70px;
+  margin-right: 50px;
+}
+
+#imagenes1 {
+  width: 450px;
+  margin: 2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#boton
+{
+  background-color: #ccc; /*color de fondo */
+  color: #fff; /*color del texto dentro de la caja en blanco*/
+  width: 100px; /*ancho de 100 píxeles*/
+  padding: 20px; /*relleno o margen interior de 20 píxeles por cada lado*/
+  border: 1px solid #000; /*borde de color negro continuo de 1 píxel de grosor*/
+  border-radius: 5px; /*redondeado de un ángulo de 5 píxeles en todas las esquinas de la caja*/
+}
