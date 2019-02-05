@@ -61,43 +61,13 @@ ul,li { /*son para las listas*/
   margin: 2px;
 }
 
+#titulo {
+  margin-top: 50px;
+  padding-right: 40%;
+}
 
+#texto {
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#boton
-{
-  background-color: #ccc; /*color de fondo */
-  color: #fff; /*color del texto dentro de la caja en blanco*/
-  width: 100px; /*ancho de 100 píxeles*/
-  padding: 20px; /*relleno o margen interior de 20 píxeles por cada lado*/
-  border: 1px solid #000; /*borde de color negro continuo de 1 píxel de grosor*/
-  border-radius: 5px; /*redondeado de un ángulo de 5 píxeles en todas las esquinas de la caja*/
+  margin: 80px;
+  padding-right: 50%
 }
