@@ -19,7 +19,7 @@ personas que quieren darse a conocer con productos innovadores
 Navegar  y conocer cada estructura del sitio
 
 ###### Cual son las cosas mas importantes de la experiencia de usuario?
-La factibilidad del acceso en donde quiera ir y la rapidez en que navega   
+La factibilidad del acceso en donde quiera ir y la rapidez en que navega
 
 ###### Que parte de la misión se te hizo mas aburrida?
 Ninguna todo me pareció interesantes
