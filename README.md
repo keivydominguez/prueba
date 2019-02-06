@@ -1,2 +1,2 @@
 # BIENVENIDO 
-__Esta carpeta esta subido todas las pruebas y ejemplos del curso__ 
+__ Esta carpeta esta subido todas las pruebas y ejemplos del curso __ 
