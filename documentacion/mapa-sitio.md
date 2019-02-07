@@ -4,6 +4,4 @@
 
 ![2 segundo mapa](/Imágenes/Mapa-del-sitio-2.png)
 
-#### Mockup
 
-![mockup](/Imágenes/pagina-web-mockup.jpg)
