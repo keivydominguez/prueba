@@ -1,3 +1,3 @@
 #### Mockup
 
-![mockup](/Imágenes/pagina-web-mockup.jpg)
+![mockup](/imagenes/pagina-web-mockup.jpg)
